@@ -1,0 +1,20 @@
+a {
+  padding: 10px;
+  border: dotted 1px;
+  }
+a:hover{
+  background-color: yellow;
+  }
+body > header{ margin-top: 60px;}
+h1 {
+  text-shadow: 2px 2px 4px grey;
+  }
+ 
+section article p{
+  padding:2em 1em;
+  margin-bottom:2em;
+  background-color: #e9ecef;
+  border-radius:1em;
+  }
+
+  
